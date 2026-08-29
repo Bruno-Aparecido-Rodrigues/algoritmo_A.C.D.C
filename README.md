@@ -1,3 +1,6 @@
+# MEMBROS #
+André Oliveira Paim - Bruno Aparecido Vivencio Rodrigues - Igor Nogueira Pessoa
+
 # Pipeline de Anonimização e Geração de Dados Sintéticos — Monitoramento de Energia (IoT)
 
 Este repositório contém um pipeline de dados em Python que recebe uma base
